@@ -1,0 +1,104 @@
+[
+    {
+     "id":1,
+      "title":" The NewYork H-907 CityFord ",
+      "location":"8856 Pecan St.",
+      "image":"./images/New1.jpg",
+      "room" : "3 Room",
+      "for":"Forsale",
+      "bed" : "4 Bed",
+      "bath":" 1 Bath",
+       "area": "723 sqft"
+       },
+    {
+        "id":2,
+        "title":"QH Hotel-907 BeckFord Dr",
+        "location":"8855 Decas St.",
+         "image":"./images/New2.jpg",
+         "room" : "2 Room",
+         "for":"Forsale",
+        "bed" : "3 Bed",
+        "bath":" 1 Bath",
+         "area": "724 sqft"
+    },
+    {
+        "id":3,
+        "title":"RM Quarter B-907 BeckFord DL",
+        "image":"./images/pexels-paul-basel-1816823.jpg",
+
+        "location":"8856 Necand St.",
+        "for":"ForRent",
+        "room" : "3 Room",
+        "bed" : "4 Bed",
+        "bath":" 1 Bath",
+         "area": "723 sqft"
+    },
+    {
+        "id":4,
+        "title":"RLD Hilton-905 BeckFord LD",
+      "image":"./images/pexels-paul-basel-1816823.jpg",
+      "location":"9856 Secan St.",
+        "room" : "4 Room",
+        "for":"ForRent",
+        "bed" : "6 Bed",
+        "bath":" 3 Bath",
+         "area": "723 sqft"
+    },
+    {
+        "id":5,
+        "title":"Hotel Queen H-506 LansFord ",
+        "location":"8856 Pecan St.",
+        "room" : "6 Room",
+      "image":"./images/pexels-lukas-kloeppel-466685.jpg",
+      "for":"Forrent",
+
+        "bed" : "9 Bed",
+        "bath":" 3 Bath",
+         "area": "850 sqft"
+    },
+    {
+        "id":6,
+        "title":"Band Qeen MaxFord Dr",
+        "location":"88568 Recan St.",
+        "room" : "6 Room",
+      "image":"./images/newyork.jpg",
+
+        "bed" : "8 Bed",
+        "bath":" 1 Bath",
+         "area": "725 sqft"
+    },
+    {
+        "id":7,
+        "title":"NewYolo H-907 BeckFord Dr",
+        "location":"8859 Stand St.",
+        "image":"./images/NewYork.png",
+        "for":"Forsale",
+
+        "room" : "8 Room",
+        "bed" : "10Bed",
+        "bath":" 5 Bath",
+         "area": "655 sft"
+    },
+    {
+        "id":8,
+        "title":"POD HOtel-907 Center RD",
+        "location":"88566 NewYork St.",
+        "room" : "1 Room",
+        "for":"Forsale",
+        "bed" : "2 Bed",
+      "image":"./images/pexels-paul-basel-1816823.jpg",
+      "bath":" 1 Bath",
+         "area": "723 sft"
+    },
+    {
+     "id":9,
+     "title":"RCE Theater-907 LeckFord Dr",
+     "location":"8856 Decan St.",
+      "image":"./images/pexels-soly-moses-14825208.jpg",
+      "room" : "3 Room",
+      "for":"ForRent",
+        "bed" : "4 Bed",
+        "bath":" 1 Bath",
+         "area": "723 sft"
+    }
+]

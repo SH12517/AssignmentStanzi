@@ -1,0 +1,102 @@
+[
+    {
+     "id":1,
+      "title":"RCE Theater-907 BeckFord Dr",
+      "location":"8856 Pecan St.",
+      "image":"./images/calmwater.jpg",
+      "for":"Forsale",
+      "room" : "3 Room",
+      "bed" : "4 Bed",
+      "bath":" 1 Bath",
+       "area": "723 sqft"
+       },
+    {
+        "id":2,
+        "title":"QH Hotel-907 BeckFord Dr",
+        "location":"8855 Decas St.",
+         "image":"./images/maxbender.jpg",
+         "room" : "2 Room",
+          "for":"Forsale",
+        "bed" : "3 Bed",
+        "bath":" 1 Bath",
+         "area": "724 sqft"
+    },
+    {
+        "id":3,
+        "title":"RM Quarter B-907 BeckFord DL",
+        "image":"./images/pexels-paul-basel-1816823.jpg",
+          "for":"ForRent",
+        "location":"8856 Necand St.",
+        "room" : "3 Room",
+        "bed" : "4 Bed",
+        "bath":" 1 Bath",
+         "area": "723 sqft"
+    },
+    {
+        "id":4,
+        "title":"RLD Hilton-905 BeckFord LD",
+      "image":"./images/pexels-paul-basel-1816823.jpg",
+      "location":"9856 Secan St.",
+        "room" : "4 Room",
+          "for":"Forsale",
+        "bed" : "6 Bed",
+        "bath":" 3 Bath",
+         "area": "723 sqft"
+    },
+    {
+        "id":5,
+        "title":"Hotel Queen H-506 BeckFord Dr",
+        "location":"8856 Pecan St.",
+        "room" : "6 Room",
+      "image":"./images/pexels-lukas-kloeppel-466685.jpg",
+          "for":"Forsale",
+
+        "bed" : "9 Bed",
+        "bath":" 3 Bath",
+         "area": "850 sqft"
+    },
+    {
+        "id":6,
+        "title":"Band Q-908 BeckFord Dr",
+        "location":"8858 Decan St.",
+        "room" : "5 Room",
+       "image":"./images/casey.jpg",
+          "for":"ForRent",
+          "bed" : "8 Bed",
+        "bath":" 1 Bath",
+         "area": "725 sqft"
+    },
+    {
+        "id":7,
+        "title":"NewYolo H-907 BeckFord Dr",
+        "location":"8859 Stand St.",
+        "image":"./images/maxbender.jpg",
+          "for":"Forsale",
+        "room" : "8 Room",
+        "bed" : "10Bed",
+        "bath":" 5 Bath",
+         "area": "655 sft"
+    },
+    {
+        "id":8,
+        "title":"RCE Theater-907 BeckFord Dr",
+        "location":"8856 Pecan St.",
+        "room" : "1 Room",
+        "bed" : "2 Bed",
+        "for":"ForRent",
+        "image":"./images/pexels-paul-basel-1816823.jpg",
+        "bath":" 1 Bath",
+         "area": "723 sft"
+    },
+    {
+     "id":9,
+     "title":"RCE Theater-907 BeckFord Dr",
+     "location":"8856 Pecan St.",
+      "image":"./images/pexels-soly-moses-14825208.jpg",
+      "room" : "3 Room",
+      "for":"Forsale",
+      "bed" : "4 Bed",
+      "bath":" 1 Bath",
+      "area": "723 sft"
+    }
+]

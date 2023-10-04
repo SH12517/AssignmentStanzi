@@ -1,0 +1,102 @@
+[
+    {
+     "id":1,
+      "title":"RCE EastThane MGRoad Dr",
+      "location":"28566 PT St.",
+      "image":"./images/big1.jpg",
+      "for":"Forsale",
+      "room" : "3 Room",
+      "bed" : "5 Bed",
+      "bath":" 1 Bath",
+       "area": "725 sqft"
+       },
+    {
+        "id":2,
+        "title":"QH Hotel TataNagar Dr",
+        "location":"88556 Palgar St.",
+         "image":"./images/Big2.jpg",
+         "for":"ForRent",
+         "room" : "2 Room",
+        "bed" : "3 Bed",
+        "bath":" 1 Bath",
+         "area": "724 sqft"
+    },
+    {
+        "id":3,
+        "title":"RM Quarter B-907 Thane DL",
+        "image":"./images/Big3.webp",
+        "for":"Forsale",
+        "location":"88568 TR Road St.",
+        "room" : "6 Room",
+        "bed" : "12 Bed",
+        "bath":" 1 Bath",
+         "area": "724 sqft"
+    },
+    {
+        "id":4,
+        "title":"RLD Hilton-905 BeckFord LD",
+      "image":"./images/Big5.jpg",
+      "location":"9856 Secan St.",
+      "for":"Forsale",
+        "room" : "4 Room",
+        "bed" : "6 Bed",
+        "bath":" 3 Bath",
+         "area": "724 sqft"
+    },
+    {
+        "id":5,
+        "title":"Hotel Queen H-506 Navi Dr",
+        "location":"8856 Pecaso St.",
+        "room" : "20 Room",
+      "image":"./images/big6.jpg",
+      "for":"ForRent",
+        "bed" : "10 Bed",
+        "bath":" 2 Bath",
+         "area": "850 sqft"
+    },
+    {
+        "id":6,
+        "title":"Taj Q-908 MRD Road",
+        "location":"88586 Seaecan St.",
+        "room" : "5 Room",
+      "image":"./images/taj.jpg",
+      "for":"ForRent",
+        "bed" : "8 Bed",
+        "bath":" 1 Bath",
+         "area": "725 sqft"
+    },
+    {
+        "id":7,
+        "title":"Yolo H-908 Goreganv SD",
+        "location":"8859 tank RDSt",
+      "image":"./images/maxbender.jpg",
+      "for":"Forsale",
+      "room" : "8 Room",
+        "bed" : "12Bed",
+        "bath":" 5 Bath",
+         "area": "655 sft"
+    },
+    {
+        "id":8,
+        "title":"Royal Hotel-907 Ford DT",
+        "location":"8856 PeResd St.",
+        "room" : "12 Room",
+        "bed" : "22 Bed",
+        "for":"ForRent",
+      "image":"./images/obrai.jpg",
+      "bath":" 1 Bath",
+         "area": "723 sft"
+    },
+    {
+     "id":9,
+     "title":"Star Hotel-907 BeckFord Dr",
+     "location":"8856 Pecan St.",
+      "image":"./images/pexels-soly-moses-14825208.jpg",
+      "room" : "3 Room",
+      "for":"Forsale",
+
+        "bed" : "4 Bed",
+        "bath":" 1 Bath",
+         "area": "723 sft"
+    }
+]

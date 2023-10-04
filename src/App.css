@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  background-color: rgb(228, 238, 247);
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+h3{
+  height: 7px;
+  margin-top: 3px;
+}
