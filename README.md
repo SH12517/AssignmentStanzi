@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Create React App  In This Project we use JSON File For Data Mapping , React-router-dom  is used for Rendring pages  
 ![Screenshot (238)](https://github.com/SH12517/AssignmentStanzi/assets/119481395/1a21ffa3-5b63-4506-9a12-bcf3ba74dd05)
 
 This project was bootst![Screenshot (237)](https://github.com/SH12517/AssignmentStanzi/assets/119481395/cbcb7f87-152f-40d8-bb9c-c4a31d86b99b)
