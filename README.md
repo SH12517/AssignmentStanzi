@@ -1,6 +1,8 @@
 # Getting Started with Create React App
+![Screenshot (238)](https://github.com/SH12517/AssignmentStanzi/assets/119481395/1a21ffa3-5b63-4506-9a12-bcf3ba74dd05)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootst![Screenshot (237)](https://github.com/SH12517/AssignmentStanzi/assets/119481395/cbcb7f87-152f-40d8-bb9c-c4a31d86b99b)
+rapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
